@@ -6,3 +6,7 @@
         margin-left: 80px;
         background-color: lightblue;
       }
+
+ textarea {
+     width: 500px;
+ }           
